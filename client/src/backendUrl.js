@@ -1,3 +1,3 @@
-const backendUrl = 'https://stackuflow.herokuapp.com';
+const backendUrl = "https://mern-stack-overflow-server.onrender.com/";
 
 export default backendUrl;
