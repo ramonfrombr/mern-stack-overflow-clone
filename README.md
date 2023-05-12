@@ -48,6 +48,19 @@ Fullstack [Stack Overflow](https://stackoverflow.com/) clone (QnA site) made wit
 - Dark mode toggle w/ local storage save
 - Proper responsive UI for all screens
 
+## Screenshots
+
+#### Desktop/Tablet
+
+![Desktop-1](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow01.jpg)
+![Desktop-2](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow02.jpg)
+![Desktop-3](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow03.jpg)
+![Desktop-4](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow04.jpg)
+![Desktop-5](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow05.jpg)
+![Desktop-6](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow06.jpg)
+![Desktop-7](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow07.jpg)
+![Desktop-8](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow08.jpg)
+
 ## Usage
 
 #### Env variable:

@@ -58,7 +58,7 @@ const MobileNavMenu = () => {
           onClick={handleCloseMenu}
         >
           <PublicIcon className={classes.menuIcon} />
-          Stack Underflow
+          Stack Superflow
         </MenuItem>
         <MenuItem
           selected={pathname.startsWith("/tag")}
