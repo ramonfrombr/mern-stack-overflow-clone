@@ -52,14 +52,14 @@ Fullstack [Stack Overflow](https://stackoverflow.com/) clone (QnA site) made wit
 
 #### Desktop/Tablet
 
-![Desktop-1](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow01.jpg)
-![Desktop-2](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow02.jpg)
-![Desktop-3](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow03.jpg)
-![Desktop-4](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow04.jpg)
-![Desktop-5](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow05.jpg)
-![Desktop-6](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow06.jpg)
-![Desktop-7](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow07.jpg)
-![Desktop-8](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow08.jpg)
+![Desktop-1](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow01.png)
+![Desktop-2](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow02.png)
+![Desktop-3](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow03.png)
+![Desktop-4](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow04.png)
+![Desktop-5](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow05.png)
+![Desktop-6](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow06.png)
+![Desktop-7](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow07.png)
+![Desktop-8](https://github.com/ramonfrombr/mern-stack-overflow-clone/blob/main/screenshots/stacksuperflow08.png)
 
 ## Usage
 
